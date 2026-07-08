@@ -58,12 +58,12 @@
       {
         "label": "Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/minimal-dark-theme.json"
+        "path": "./themes/dark-theme.json"
       },
       {
         "label": "Light",
         "uiTheme": "vs",
-        "path": "./themes/minimal-light-theme.json"
+        "path": "./themes/light-theme.json"
       }
     ]
   }

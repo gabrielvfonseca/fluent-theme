@@ -1,17 +1,18 @@
 # Change Log
 
-All notable changes to the "minimal-theme" extension will be documented in this file.
+All notable changes to the "fluent-theme" extension will be documented in this file.
 
-## [1.0.0] - 2025-03-27
+## [0.0.1] - 2025-03-27
 
 ### Added
-- Initial release of Minimal Theme
-- Dark theme with high contrast and readability focus
-- Light theme with clean, minimal aesthetic
+- Initial release of Fluent Theme
+- **Dark** — deep, minimal dark theme with high contrast and readability focus
+- **Light** — clean, minimal light theme with balanced contrast
 - Comprehensive syntax highlighting for multiple languages
 - Customized markdown styling with clear heading hierarchy
 - Optimized terminal colors for better readability
-- Customized UI elements including:
+- Semantic token highlighting for modern language server support
+- Full UI customization including:
   - Activity bar and sidebar
   - Editor tabs and groups
   - Status bar

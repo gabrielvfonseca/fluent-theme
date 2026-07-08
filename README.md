@@ -1,28 +1,38 @@
-# Minimal Theme
+# Fluent Theme
 
-A clean, minimal dark theme for Visual Studio Code that focuses on readability and visual hierarchy.
+A sleek, clean, and distraction-free theme for Visual Studio Code, Cursor, Antigravity, and other VS Code-compatible editors. Features both dark and light variants with a focus on readability and visual hierarchy.
 
 ## Features
 
-- Dark, minimal color scheme
+- **Dark** — deep, minimal dark theme
+- **Light** — clean, minimal light theme
 - High contrast for better readability
-- Consistent color hierarchy
+- Consistent color hierarchy across both themes
 - Optimized for long coding sessions
 - Support for multiple languages and file types
 - Customized markdown styling
+- Semantic token highlighting
 
 ## Install
 
-1. Download the theme file (`themes/Minimal-color-theme.json`)
-2. Copy it to your VS Code themes directory:
+### From VS Code Marketplace
+Search for "Fluent Theme" in the Extensions view (`Cmd+Shift+X` or `Ctrl+Shift+X`).
+
+### From VSIX
+1. Download the `.vsix` file from the [releases page](https://github.com/gabrielvfonseca/fluent-theme/releases)
+2. In VS Code, go to Extensions → `...` → Install from VSIX...
+3. Select the downloaded file
+
+### Manual Install
+1. Clone the repository:
+   ```
+   git clone https://github.com/gabrielvfonseca/fluent-theme.git
+   ```
+2. Copy the entire `fluent-theme` folder to your VS Code extensions directory:
    - Windows: `%USERPROFILE%\.vscode\extensions`
-   - macOS: `~/.vscode/extensions`
-   - Linux: `~/.vscode/extensions`
-3. Reload VS Code
-4. Select the theme:
-   - Press `Cmd+Shift+P` (macOS) or `Ctrl+Shift+P` (Windows/Linux)
-   - Type "Color Theme"
-   - Select "Minimal"
+   - macOS/Linux: `~/.vscode/extensions`
+3. Reload your editor
+4. Open Command Palette (`Cmd+Shift+P` or `Ctrl+Shift+P`) → "Color Theme" → Select **Dark** or **Light**
 
 ## Contributing
 

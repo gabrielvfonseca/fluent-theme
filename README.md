@@ -1,31 +1,21 @@
-<p align="center">
-  <img src="./banner.png" alt="Fluent Theme">
-</p>
+# Fluent Theme
 
+<a href="https://github.com/gabrielvfonseca/fluent-theme/releases">
+  <img src="https://img.shields.io/badge/version-0.0.1-blue?style=flat-square" alt="Version">
+</a>
+<a href="https://github.com/gabrielvfonseca/fluent-theme/blob/main/LICENSE.md">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
+</a>
+<a href="https://code.visualstudio.com/updates/v1_98">
+  <img src="https://img.shields.io/badge/vscode-%5E1.98.0-blue?style=flat-square" alt="VS Code">
+</a>
+<a href="https://github.com/gabrielvfonseca/fluent-theme/issues">
+  <img src="https://img.shields.io/github/issues/gabrielvfonseca/fluent-theme?style=flat-square" alt="Issues">
+</a>
+
+A sleek, clean, and distraction-free theme for Visual Studio Code, Cursor, and other VS Code-compatible editors.
 <br/>
-
-<p align="center">
-  <a href="https://github.com/gabrielvfonseca/fluent-theme/releases">
-    <img src="https://img.shields.io/badge/version-0.0.1-blue?style=flat-square" alt="Version">
-  </a>
-  <a href="https://github.com/gabrielvfonseca/fluent-theme/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
-  </a>
-  <a href="https://code.visualstudio.com/updates/v1_98">
-    <img src="https://img.shields.io/badge/vscode-%5E1.98.0-blue?style=flat-square" alt="VS Code">
-  </a>
-  <a href="https://github.com/gabrielvfonseca/fluent-theme/issues">
-    <img src="https://img.shields.io/github/issues/gabrielvfonseca/fluent-theme?style=flat-square" alt="Issues">
-  </a>
-</p>
-
-<h1 align="center">Fluent Theme</h1>
-
-<p align="center">
-  A sleek, clean, and distraction-free theme for Visual Studio Code, Cursor, and other VS Code-compatible editors.
-  <br/>
-  Available in <b>Dark</b> and <b>Light</b> variants.
-</p>
+Available in <b>Dark</b> and <b>Light</b> variants.
 
 ## Features
 

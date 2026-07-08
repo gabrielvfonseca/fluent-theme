@@ -1,13 +1,15 @@
 {
-  "name": "minimal-theme",
-  "displayName": "minimal-theme",
+  "name": "fluent-theme",
+  "displayName": "Fluent Theme",
   "description": "A sleek, clean, and distraction-free theme for those who like their editor simple and beautiful.",
   "version": "0.0.1",
-  "publisher": "gabrielfonseca",
+  "publisher": "@gabrielvfonseca",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.98.0"
   },
   "keywords": [
+    "fluent",
     "minimal",
     "grayscale",
     "muted",
@@ -19,6 +21,7 @@
     "low contrast",
     "professional",
     "dark mode",
+    "light mode",
     "elegant",
     "matte",
     "subtle",
@@ -38,15 +41,29 @@
     "name": "Gabriel Fonseca",
     "url": "https://github.com/gabrielvnfonseca"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielvfonseca/fluent-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gabrielvfonseca/fluent-theme/issues"
+  },
+  "homepage": "https://github.com/gabrielvfonseca/fluent-theme",
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Minimal Dark",
+        "label": "Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/minimal-dark-theme.json"
+      },
+      {
+        "label": "Light",
+        "uiTheme": "vs",
+        "path": "./themes/minimal-light-theme.json"
       }
     ]
   }

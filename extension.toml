@@ -1,0 +1,8 @@
+id = "theme"
+name = "Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Gabriel Fonseca <hey@gabfon.com>"]
+description = "A sleek, clean, and distraction-free theme for Zed editor"
+repository = "https://github.com/gabrielvfonseca/theme"
+categories = ["Themes"]

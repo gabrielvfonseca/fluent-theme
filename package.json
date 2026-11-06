@@ -1,6 +1,6 @@
 {
-  "name": "fluent-theme",
-  "displayName": "Fluent Theme",
+  "name": "theme",
+  "displayName": "Theme",
   "description": "A sleek, clean, and distraction-free theme for those who like their editor simple and beautiful.",
   "version": "0.0.1",
   "publisher": "@gabrielvfonseca",
@@ -9,7 +9,6 @@
     "vscode": "^1.98.0"
   },
   "keywords": [
-    "fluent",
     "minimal",
     "grayscale",
     "muted",
@@ -43,12 +42,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gabrielvfonseca/fluent-theme.git"
+    "url": "https://github.com/gabrielvfonseca/theme.git"
   },
   "bugs": {
-    "url": "https://github.com/gabrielvfonseca/fluent-theme/issues"
+    "url": "https://github.com/gabrielvfonseca/theme/issues"
   },
-  "homepage": "https://github.com/gabrielvfonseca/fluent-theme",
+  "homepage": "https://github.com/gabrielvfonseca/theme",
   "icon": "icon.png",
   "categories": [
     "Themes"

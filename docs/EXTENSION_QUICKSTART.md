@@ -3,7 +3,7 @@
 ## Folder Structure
 
 ```
-fluent-theme/
+theme/
 ├── themes/
 │   ├── dark-theme.json    # Dark theme definition
 │   └── light-theme.json   # Light theme definition

@@ -17,7 +17,7 @@ Create a `.vsix` bundle for manual distribution:
 vsce package
 ```
 
-Output: `fluent-theme-0.0.1.vsix`
+Output: `theme-0.0.1.vsix`
 
 ## Publishing to Marketplace
 

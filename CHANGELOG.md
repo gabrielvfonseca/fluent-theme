@@ -1,11 +1,11 @@
 # Change Log
 
-All notable changes to the "fluent-theme" extension will be documented in this file.
+All notable changes to the "theme" extension will be documented in this file.
 
 ## [0.0.1] - 2025-03-27
 
 ### Added
-- Initial release of Fluent Theme
+- Initial release of Theme
 - **Dark** — deep, minimal dark theme with high contrast and readability focus
 - **Light** — clean, minimal light theme with balanced contrast
 - Comprehensive syntax highlighting for multiple languages

@@ -1,8 +1,8 @@
-# Fluent Theme — Agent Guide
+# Theme — Agent Guide
 
 ## Project Overview
 
-Fluent Theme is a VS Code color theme extension with Dark and Light variants. It uses a restrained neutral palette with semantic token highlighting for modern language server support.
+Theme is a VS Code color theme extension with Dark and Light variants. It uses a restrained neutral palette with semantic token highlighting for modern language server support.
 
 ## Quick Commands
 
